@@ -1,0 +1,226 @@
+[
+  {
+    "id": "1",
+    "name": "Blender XM-200",
+    "price": 45000,
+    "category": "Oshxona texnikasi",
+    "stock": 15,
+    "description": "5 tezlik rejimi, 600W quvvat, shisha idish"
+  },
+  {
+    "id": "2",
+    "name": "Mikroto'lqinli pech Samsung",
+    "price": 1200000,
+    "category": "Oshxona texnikasi",
+    "stock": 8,
+    "description": "23L hajm, sensor boshqaruv, avtomatik dasturlar"
+  },
+  {
+    "id": "3",
+    "name": "Elektr choynak Tefal",
+    "price": 180000,
+    "category": "Oshxona texnikasi",
+    "stock": 25,
+    "description": "1.7L, po'lat korpus, avtomatik o'chish"
+  },
+  {
+    "id": "4",
+    "name": "Multicooker Redmond",
+    "price": 850000,
+    "category": "Oshxona texnikasi",
+    "stock": 12,
+    "description": "5L, 45 dastur, non pishirish rejimi"
+  },
+  {
+    "id": "5",
+    "name": "Mikser Bosch",
+    "price": 320000,
+    "category": "Oshxona texnikasi",
+    "stock": 18,
+    "description": "5 tezlik, turbo rejim, 400W"
+  },
+  {
+    "id": "6",
+    "name": "Elektr pech Artel",
+    "price": 2500000,
+    "category": "Oshxona texnikasi",
+    "stock": 5,
+    "description": "60L, konveksiya, gril, timer"
+  },
+  {
+    "id": "7",
+    "name": "Changyutgich Samsung PowerBot",
+    "price": 2500000,
+    "category": "Tozalash uskunalari",
+    "stock": 10,
+    "description": "Robot changyutgich, Wi-Fi, avtomatik quvvat"
+  },
+  {
+    "id": "8",
+    "name": "Vertikal changyutgich Dyson V11",
+    "price": 4500000,
+    "category": "Tozalash uskunalari",
+    "stock": 6,
+    "description": "Simsiz, 60 daqiqa ishlash, HEPA filtr"
+  },
+  {
+    "id": "9",
+    "name": "Bug' tozalagich Karcher",
+    "price": 1800000,
+    "category": "Tozalash uskunalari",
+    "stock": 8,
+    "description": "1500W, 4 bar bosim, aksessuarlar to'plami"
+  },
+  {
+    "id": "10",
+    "name": "Pol yuvish mashinasi Xiaomi",
+    "price": 3200000,
+    "category": "Tozalash uskunalari",
+    "stock": 7,
+    "description": "Avtomatik navigatsiya, suv tanki 600ml"
+  },
+  {
+    "id": "11",
+    "name": "Changyutgich LG Kompressor",
+    "price": 1500000,
+    "category": "Tozalash uskunalari",
+    "stock": 12,
+    "description": "2000W, 1.5L idish, kompressor texnologiyasi"
+  },
+  {
+    "id": "12",
+    "name": "Konditsioner Midea 12000 BTU",
+    "price": 3200000,
+    "category": "Isitish va sovitish",
+    "stock": 15,
+    "description": "Inverter, Wi-Fi, energiya A++, sovutish/isitish"
+  },
+  {
+    "id": "13",
+    "name": "Konditsioner Samsung WindFree",
+    "price": 4500000,
+    "category": "Isitish va sovitish",
+    "stock": 8,
+    "description": "18000 BTU, shamolsiz texnologiya, aqlli sensor"
+  },
+  {
+    "id": "14",
+    "name": "Ventilyator Xiaomi Mi Smart",
+    "price": 650000,
+    "category": "Isitish va sovitish",
+    "stock": 20,
+    "description": "DC motor, Wi-Fi, ovoz boshqaruvi, 28W"
+  },
+  {
+    "id": "15",
+    "name": "Konvektor isitgich Electrolux",
+    "price": 850000,
+    "category": "Isitish va sovitish",
+    "stock": 10,
+    "description": "2000W, elektronik termostat, devor o'rnatish"
+  },
+  {
+    "id": "16",
+    "name": "Nasos Samsung",
+    "price": 5200000,
+    "category": "Isitish va sovitish",
+    "stock": 4,
+    "description": "Inverter kompressor, A++ energiya, 12L/24h"
+  },
+  {
+    "id": "17",
+    "name": "Ventilyator Artel Tower",
+    "price": 450000,
+    "category": "Isitish va sovitish",
+    "stock": 18,
+    "description": "Minora dizayn, pult, timer, 45W"
+  },
+  {
+    "id": "18",
+    "name": "Soch quritgich Philips",
+    "price": 280000,
+    "category": "Shaxsiy parvarish",
+    "stock": 22,
+    "description": "2100W, ionizatsiya, 6 tezlik/harorat"
+  },
+  {
+    "id": "19",
+    "name": "Elektr ustara Braun Series 9",
+    "price": 1800000,
+    "category": "Shaxsiy parvarish",
+    "stock": 10,
+    "description": "Suv o'tkazmaydigan, 5 tig\u041a\u00bb, aqlli sensor"
+  },
+  {
+    "id": "20",
+    "name": "Tish cho'tkasi Oral-B",
+    "price": 450000,
+    "category": "Shaxsiy parvarish",
+    "stock": 15,
+    "description": "Elektr, bluetooth, bosim sensori"
+  },
+  {
+    "id": "21",
+    "name": "Epilyator Philips Satinelle",
+    "price": 650000,
+    "category": "Shaxsiy parvarish",
+    "stock": 12,
+    "description": "Suv o'tkazmaydigan, 2 tezlik, LED yoritgich"
+  },
+  {
+    "id": "22",
+    "name": "Soch to'g'rilagich Xiaomi",
+    "price": 320000,
+    "category": "Shaxsiy parvarish",
+    "stock": 18,
+    "description": "Keramik plastinka, 180\u0412\u00b0C, tez qizish"
+  },
+  {
+    "id": "23",
+    "name": "Aqlli soat Xiaomi Mi Band 8",
+    "price": 550000,
+    "category": "Aqlli uy texnikasi",
+    "stock": 30,
+    "description": "AMOLED ekran, 150+ sport rejimi, SpO2"
+  },
+  {
+    "id": "24",
+    "name": "Aqlli kamera Xiaomi 360\u0412\u00b0",
+    "price": 450000,
+    "category": "Aqlli uy texnikasi",
+    "stock": 20,
+    "description": "1080p, tungi ko'rish, ikki tomonlama audio"
+  },
+  {
+    "id": "25",
+    "name": "Aqlli lampochka Yeelight",
+    "price": 120000,
+    "category": "Aqlli uy texnikasi",
+    "stock": 40,
+    "description": "RGB, Wi-Fi, ovoz boshqaruvi, 16M rang"
+  },
+  {
+    "id": "26",
+    "name": "Aqlli rozetka Xiaomi",
+    "price": 85000,
+    "category": "Aqlli uy texnikasi",
+    "stock": 35,
+    "description": "Wi-Fi, ovoz boshqaruvi, energiya monitoring"
+  },
+  {
+    "id": "27",
+    "name": "Aqlli eshik qulfi Aqara",
+    "price": 1200000,
+    "category": "Aqlli uy texnikasi",
+    "stock": 8,
+    "description": "Barmoq izi, parol, kartochka, NFC"
+  },
+  {
+    "id": "28",
+    "name": "Aqlli termostat Google Nest",
+    "price": 950000,
+    "category": "Aqlli uy texnikasi",
+    "stock": 10,
+    "description": "Wi-Fi, o'rganuvchi, energiya tejash, sensor"
+  }
+]

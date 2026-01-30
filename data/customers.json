@@ -1,0 +1,27 @@
+[
+  {
+    "id": "C001",
+    "username": "qwer",
+    "email": "qwer",
+    "password": "11",
+    "membership": "BIZNES",
+    "points": 462,
+    "cart": [
+      {
+        "product_id": "5",
+        "quantity": 15
+      }
+    ],
+    "total_spent": 0
+  },
+  {
+    "id": "C002",
+    "username": "",
+    "email": "",
+    "password": "",
+    "membership": "BRONZE",
+    "points": 2,
+    "cart": [],
+    "total_spent": 0
+  }
+]

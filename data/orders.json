@@ -1,0 +1,22 @@
+[
+  {
+    "username": "",
+    "items": [
+      {
+        "product_id": "25",
+        "name": "Aqlli lampochka Yeelight",
+        "qty": 2,
+        "unit_price": 120000
+      }
+    ],
+    "original_price": 240000,
+    "final_paid": 240000,
+    "delivery": "Kuryer",
+    "datetime": "2026-01-28 16:08:23",
+    "delivery_info": {
+      "viloyat": "sur",
+      "tuman": "shur",
+      "telefon": "97552"
+    }
+  }
+]
